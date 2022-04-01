@@ -30,5 +30,37 @@
         "Deep House",
         "Big Room"
       ]
+   },
+      {
+      "artistName":"Metaly",
+      "trackName":"Rise",
+      "image":"https://i.pinimg.com/564x/ce/16/6b/ce166b74f6924077f940e7e950ccc2b1.jpg",
+      "url":"https://drive.google.com/file/d/1cYMz2TMo0xVCQFjdtUrjkhAKidwlixkl/",
+      "genres":[
+        "Future Bass",
+        "Trap",
+        "Trapstep"
+      ]
+   },
+   {
+      "artistName":"Met",
+      "trackName":"VVV",
+      "image":"https://i.pinimg.com/564x/92/d8/c9/92d8c9e501ff87d1e9c52024dcfc3dc9.jpg",
+      "url":"https://drive.google.com/file/d/1_TwfyrNn88CfhX09kt8zTdQokaAigJbA/",
+      "genres":[
+        "Dubstep",
+        "EDM"
+      ]
+   },
+   {
+      "artistName":"aly",
+      "trackName":"/.//./",
+      "image":"https://i.pinimg.com/564x/b6/e0/0e/b6e00e5d2879619158f4d73d5daff612.jpg",
+      "url":"https://drive.google.com/file/d/1YWRaoNy5PjICaDQ9FCzkrG3bbkbItIHl/",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
    }
 ]
