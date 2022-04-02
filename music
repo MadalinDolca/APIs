@@ -43,9 +43,8 @@
       ]
    },
    {
-      "artistName":"Met",
-      "trackName":"VVV",
-      "image":"https://i.pinimg.com/564x/92/d8/c9/92d8c9e501ff87d1e9c52024dcfc3dc9.jpg",
+      "artistName":"Test Artist 2",
+      "trackName":"Test Track 2",
       "url":"https://drive.google.com/file/d/1_TwfyrNn88CfhX09kt8zTdQokaAigJbA/",
       "genres":[
         "Dubstep",
