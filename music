@@ -3,7 +3,7 @@
       "artistName":"huken x murkish",
       "trackName":"WASTED",
       "image":"https://i.pinimg.com/564x/ce/16/6b/ce166b74f6924077f940e7e950ccc2b1.jpg",
-      "url":"https://github.com/MadalinDolca/APIs/blob/main/huken%20x%20murkish%20-%20WASTED.mp3?raw=true",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/huken%20x%20murkish%20-%20WASTED.mp3?raw=true",
       "genres":[
         "Future Bass",
         "Trap",
@@ -14,7 +14,7 @@
       "artistName":"BEXEY & Fat Nick",
       "trackName":"Stay Alive",
       "image":"https://i.pinimg.com/564x/92/d8/c9/92d8c9e501ff87d1e9c52024dcfc3dc9.jpg",
-      "url":"https://github.com/MadalinDolca/APIs/blob/main/BEXEY%20&%20Fat%20Nick%20-%20Stay%20Alive.mp3?raw=true/",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/BEXEY%20&%20Fat%20Nick%20-%20Stay%20Alive.mp3?raw=true",
       "genres":[
         "Dubstep",
         "EDM"
@@ -24,7 +24,7 @@
       "artistName":"líue",
       "trackName":"Suffer With Me",
       "image":"https://i.pinimg.com/564x/b6/e0/0e/b6e00e5d2879619158f4d73d5daff612.jpg",
-      "url":"https://github.com/MadalinDolca/APIs/blob/main/Suffer%20With%20Me.mp3?raw=true",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/Suffer%20With%20Me.mp3?raw=true",
       "genres":[
         "House",
         "Deep House",
@@ -35,7 +35,7 @@
       "artistName":"Test Artist",
       "trackName":"Test Track",
       "image":"",
-      "url":"https://github.com/MadalinDolca/APIs/blob/main/Suffer%20With%20Me.mp3?raw=true",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/BEXEY%20&%20Fat%20Nick%20-%20Stay%20Alive.mp3?raw=true",
       "genres":[
         "Future Bass",
         "Trap",
@@ -45,7 +45,7 @@
    {
       "artistName":"Test Artist 2",
       "trackName":"Test Track 2",
-      "url":"https://github.com/MadalinDolca/APIs/blob/main/Suffer%20With%20Me.mp3?raw=true",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/BEXEY%20&%20Fat%20Nick%20-%20Stay%20Alive.mp3?raw=true",
       "genres":[
         "Dubstep",
         "EDM"
@@ -55,7 +55,7 @@
       "artistName":"aly",
       "trackName":"/.//./",
       "image":"https://i.pinimg.com/564x/b6/e0/0e/b6e00e5d2879619158f4d73d5daff612.jpg",
-      "url":"https://github.com/MadalinDolca/APIs/blob/main/Suffer%20With%20Me.mp3?raw=true",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/BEXEY%20&%20Fat%20Nick%20-%20Stay%20Alive.mp3?raw=true",
       "genres":[
         "House",
         "Deep House",
