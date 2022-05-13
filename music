@@ -32,6 +32,61 @@
       ]
    },
    {
+      "artistName":"Falling In Reverse",
+      "trackName":"Good Girls Bad Guys",
+      "image":"https://i.pinimg.com/236x/ad/1b/88/ad1b88bbec79d1b2e3ede755599ab5d4.jpg",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/Falling%20In%20Reverse%20-%20Good%20Girls%20Bad%20Guys.mp3?raw=true",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
+   },
+   {
+      "artistName":"Chief Keef",
+      "trackName":"Say She Luv Me",
+      "image":"https://i.pinimg.com/236x/d5/96/75/d59675a7bcdc2dae1e0c9ee89d89d2a1.jpg",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/Chief%20Keef%20-%20Say%20She%20Luv%20Me.mp3?raw=true",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
+   },
+   {
+      "artistName":"GUTTER",
+      "trackName":"grave inside my head",
+      "image":"https://i.pinimg.com/236x/ef/f1/b8/eff1b88bce66edadb125fc21c400d4fb.jpg",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/GUTTER%20-%20grave%20inside%20my%20head.mp3?raw=true",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
+   },
+   {
+      "artistName":"State Champs",
+      "trackName":"Stitches",
+      "image":"https://i.pinimg.com/236x/67/e7/ab/67e7ab487ceda9d129428025ec1f3214.jpg",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/State%20Champs%20-%20Stitches.mp3?raw=true",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
+   },
+   {
+      "artistName":"TI & Rihanna",
+      "trackName":"Live Your Life",
+      "image":"https://i.pinimg.com/236x/6b/ef/e5/6befe5a890590e98c839f1b9c17f0d6b.jpg",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/TI%20%26%20Rihanna%20-%20Live%20Your%20Life.mp3?raw=true",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
+   },
+   {
       "artistName":"Test Artist",
       "trackName":"Test Track",
       "image":"",
@@ -52,8 +107,8 @@
       ]
    },
    {
-      "artistName":"aly",
-      "trackName":"/.//./",
+      "artistName":"Test Artist 3",
+      "trackName":"Test Track 3",
       "image":"https://i.pinimg.com/564x/b6/e0/0e/b6e00e5d2879619158f4d73d5daff612.jpg",
       "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/BEXEY%20&%20Fat%20Nick%20-%20Stay%20Alive.mp3?raw=true",
       "genres":[
