@@ -87,6 +87,61 @@
       ]
    },
    {
+      "artistName":"ROY KNOX",
+      "trackName":"Over My Head",
+      "image":"https://i.pinimg.com/564x/c1/7e/92/c17e92bf1523bceb33307b2bcff0cacd.jpg",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/ROY%20KNOX%20-%20Over%20My%20Head.mp3?raw=true",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
+   },
+   {
+      "artistName":"TRXIXN",
+      "trackName":"fake",
+      "image":"https://i.pinimg.com/564x/63/f4/52/63f4520af6501dd9b1cc35676252eea5.jpg",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/TRXIXN%20-%20fake.mp3?raw=true",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
+   },
+   {
+      "artistName":"100 Gecs",
+      "trackName":"hand crushed by a mallet",
+      "image":"https://i.pinimg.com/564x/9f/b8/5a/9fb85aed282491c6bf196b619c26aca1.jpg",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/100%20Gecs%20-%20hand%20crushed%20by%20a%20mallet.mp3?raw=true",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
+   },
+   {
+      "artistName":"TRXIXN x mirae",
+      "trackName":"cuddle",
+      "image":"https://i.pinimg.com/564x/51/aa/7d/51aa7da0d475a0a395d650a101a8d0ec.jpg",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/TRXIXN%20%26%20mirae%20-%20cuddle.mp3?raw=true",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
+   },
+   {
+      "artistName":"TRXIXN & WAKE UP PRINCE",
+      "trackName":"ghost mode",
+      "image":"https://i.pinimg.com/564x/18/c8/5a/18c85a658da96c6f541cf5f9ea577407.jpg",
+      "url":"https://github.com/MadalinDolca/APIs/blob/main/songs/TRXIXN%20x%20WAKE%20UP%20PRINCE%20-%20ghost%20mode.mp3?raw=true",
+      "genres":[
+        "House",
+        "Deep House",
+        "Big Room"
+      ]
+   },
+   {
       "artistName":"Test Artist",
       "trackName":"Test Track",
       "image":"",
